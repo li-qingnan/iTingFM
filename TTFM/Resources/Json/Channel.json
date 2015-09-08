@@ -1,0 +1,154 @@
+ [
+            {
+                "id": 0,
+                "name": "all",
+                "title": "热门",
+                "coverPath": "all.png",
+                "orderNum": 0,
+                "isChecked": false
+            },
+            {
+                "id": 3,
+                "name": "book",
+                "title": "有声小说",
+                "coverPath": "book.png",
+                "orderNum": 1,
+                "isChecked": false
+            },
+            {
+                "id": 2,
+                "name": "music",
+                "title": "音乐",
+                "coverPath": "music.png",
+                "orderNum": 2,
+                "isChecked": false
+            },
+            {
+                "id": 4,
+                "name": "entertainment",
+                "title": "综艺娱乐",
+                "coverPath": "entertainment.png",
+                "orderNum": 3,
+                "isChecked": false
+            },
+            {
+                "id": 12,
+                "name": "comic",
+                "title": "相声评书",
+                "coverPath": "comic.png",
+                "orderNum": 4,
+                "isChecked": false
+            },
+            {
+                "id": 1,
+                "name": "news",
+                "title": "最新资讯",
+                "coverPath": "news.png",
+                "orderNum": 5,
+                "isChecked": false
+            },
+            {
+                "id": 10,
+                "name": "emotion",
+                "title": "情感生活",
+                "coverPath": "emotion.png",
+                "orderNum": 6,
+                "isChecked": false
+            },
+            {
+                "id": 9,
+                "name": "culture",
+                "title": "历史人文",
+                "coverPath": "culture.png",
+                "orderNum": 7,
+                "isChecked": false
+            },
+            {
+                "id": 5,
+                "name": "train",
+                "title": "外语",
+                "coverPath": "train.png",
+                "orderNum": 8,
+                "isChecked": false
+            },
+            {
+                "id": 13,
+                "name": "chair",
+                "title": "培训讲座",
+                "coverPath": "chair.png",
+                "orderNum": 9,
+                "isChecked": false
+            },
+            {
+                "id": 14,
+                "name": "baijia",
+                "title": "百家讲坛",
+                "coverPath": "baijia.png",
+                "orderNum": 10,
+                "isChecked": false
+            },
+            {
+                "id": 15,
+                "name": "radioplay",
+                "title": "广播剧",
+                "coverPath": "radioplay.png",
+                "orderNum": 11,
+                "isChecked": false
+            },
+            {
+                "id": 16,
+                "name": "opera",
+                "title": "戏曲",
+                "coverPath": "opera.png",
+                "orderNum": 12,
+                "isChecked": false
+            },
+            {
+                "id": 6,
+                "name": "kid",
+                "title": "儿童",
+                "coverPath": "kid.png",
+                "orderNum": 13,
+                "isChecked": false
+            },
+            {
+                "id": 17,
+                "name": "radio",
+                "title": "电台",
+                "coverPath": "radio.png",
+                "orderNum": 14,
+                "isChecked": false
+            },
+            {
+                "id": 8,
+                "name": "finance",
+                "title": "商业财经",
+                "coverPath": "finance.png",
+                "orderNum": 15,
+                "isChecked": false
+            },
+            {
+                "id": 18,
+                "name": "it",
+                "title": "IT科技",
+                "coverPath": "it.png",
+                "orderNum": 16,
+                "isChecked": false
+            },
+            {
+                "id": 7,
+                "name": "health",
+                "title": "健康养生",
+                "coverPath": "health.png",
+                "orderNum": 17,
+                "isChecked": false
+            },
+            {
+                "id": 11,
+                "name": "other",
+                "title": "其他",
+                "coverPath": "other.png",
+                "orderNum": 18,
+                "isChecked": false
+            }
+ ]

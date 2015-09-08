@@ -1,0 +1,39 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <MediaPlayer/MediaPlayer.h>
+    #import <AVFoundation/AVFoundation.h>
+#endif
+
+#import "TT_AppDelegate.h"
+#import "TT_Channel.h"
+#import "TT_Detail.h"
+#import "JSONKit.h"
+#import "UIImageView+WebCache.h"
+#import "TT_DatabaseHandle.h"
+#import "TT_GaussBlur.h"
+#import "MulticolorView.h"
+#import "UIButton+NMCategory.h"
+#import "Reachability.h"
+
+
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+
+
+
+
+
